@@ -65,7 +65,7 @@ driver.quit()
 optionsformobile = EdgeOptions()
 optionsformobile.use_chromium = True
 optionsformobile.binary_location = r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
-optionsformobile.add_argument(r"--user-data-dir=C:\Users\TamirOladejo\AppData\Local\Microsoft\Edge\User Data1")
+optionsformobile.add_argument(r"--user-data-dir=C:\Users\$YourUser$\AppData\Local\Microsoft\Edge\User Data1") # User Data1 is completely an optional name for the file
 driverpath = 'msedgedriver.exe'
 driver = Edge(options=optionsformobile)
 
