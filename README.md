@@ -3,7 +3,7 @@ Python program that automatically does a certain number of Microsoft Edge search
 
 This program assures the maximum amount of points irrespective of level (Level 1 or Level 2).
 
-Program isn't targetted at developed countries but rather undeveloped countries with less points per search.
+Program isn't targetted at developed countries but rather underdeveloped countries with less points per search.
 
 For level 2 you get 90+12 points (112 points) and for level 1 you get 30+3 points (33 points) *daily.*
 
