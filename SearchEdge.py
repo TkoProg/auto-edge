@@ -17,10 +17,10 @@ import warnings
 
 r"""
 Unused code:
-# optionsformobile.add_extension(r"C:\Users\TamirOladejo\AppData\Local\Microsoft\Edge\User 
+# optionsformobile.add_extension(r"C:\Users\$YourUser$\AppData\Local\Microsoft\Edge\User 
 # Data\Default\Extensions\kfhpbcjoekokcapipficfgjadanhfmjb\1.2.0_0.crx")
 # capabilities = DesiredCapabilities.EDGE
-# driver = Edge(executable_path=r"C:\Users\TamirOladejo\IdeaProjects\AutoEdge Searches\msedgedriver.exe")
+# driver = Edge(executable_path=r"C:\Users\$YourUser$\IdeaProjects\AutoEdge Searches\msedgedriver.exe")
 # optionsfordesktop.headless = True
 # optionsfordesktop.add_argument("--headless")
 # optionsfordesktop.add_argument("window-size=1400,600")
