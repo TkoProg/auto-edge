@@ -3,7 +3,7 @@ Python script that automatically does a certain number of Microsoft Edge searche
 
 This program assures the maximum amount of points irrespective of level (Level 1 or Level 2).
 
-Program isn't targetted at developed countries but rather underdeveloped countries with less points per search.
+This script isn't targetted at developed countries but rather underdeveloped countries with less points per search.
 
 All values are editable so that the program can be used for developed countries as well.
 
